@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://tessadgreen.github.io/home/sitemap.xml
+Sitemap: https://tessadgreen.github.io/sitemap.xml
