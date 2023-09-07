@@ -2,71 +2,81 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Tessa D Green 
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Harvard Medical School, Boston, MA
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Biophysics
+        - Methods and applications of single-cell transcriptomics
+    - title: BS
+      institution: MIT, Cambridge, MA
+      year: 2016
       description:
-        - Description 1.
-        - Description 2.
+        - Physics with statistics
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Debora Marks and Chris Sander Labs
+      institution: Harvard Medical School, Boston, MA
+      year: 2017 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Methods for perturbation analysis.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Developed statistical tools for perturbation quantification in single cell -omics  and 
+            - Tested evaluation metrics for machine learning in the single cell transcriptomics 
+            - Created annotation-harmonized database of single-cell perturbation datasets
+        - title: Cell-cell communication in triple negative breast cancer.
+          contents:
+            - Applied matrix decomposition methods to identify cell-cell communication predictive of treatment response
+        - title: Transcriptomics for aspirin-exacerbated respiratory disease
+          contents:
+            - Bioinformatics analysis of single cell and bulk RNA sequencing of nasal epithelial samples
+            - Machine learning methods for joint latent space discovery using multi-omics data
+    - title: Adam Cohen Lab
+      institution: Harvard, Cambridge, MA
+      year: 2016
       description:
-        - Description 1.
-        - Description 2.
+        - Began development of an optogenetically-capable spiking HEK293 cell line for in vitro analysis of sodium ion channel mutants. 
+        - Initiated random mutagenesis approach to improving response of light-activated ion channels used for optogenetic control of neurons.   
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Quanta Lab
+      institution: MIT, Cambridge, MA.
+      year: 2013-2014
       description:
+        - Characterized resolution of a system of optical lenses and a micron-scale camera for imaging trapped ions for quantum computing applications.
+        - Wrote image analysis scripts for evaluating intensity differences and resolution of a test target. 
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Allanore Group
+      institution: MIT, Cambridge, MA
+      year: 2012 - 2013
+      description:
+        - Characterized phase diagram for a ternary system of rare earth metal oxides. 
+        - Worked to develop a proof of concept for low temperature electrolysis of rare earth metals.  
 
-- title: Open Source Projects
+
+- title: Teaching Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Research mentor
+      year: 2018
+      description: 
+        - Developed project and directed high school research student on the project “Using Single-Cell RNA Sequencing Data to Study Plastid Differentiation Dynamics with Nucleus-Encoded Plastid Gene Expression in Arabidopsis thaliana.” 
+        - Student placed in the top 5 papers and top 10 presentations at the 2018 MIT CEE Research Science Institute.
+    - title: Academic tutor
+      year: 2017
+      description:
+        - Taught science communication in a classroom setting to sixteen advanced high school science students. 
+        - Provided guidance to students throughout month-long mentorship placements at biology labs 
+        - Worked one-on-one with students to refine writing and presentation skills and helped them to write a scientific paper and give a ten-minute talk at the conclusion of the program.   
+
 
 - title: Honors and Awards
   type: time_table
