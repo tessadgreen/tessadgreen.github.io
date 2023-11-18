@@ -8,10 +8,10 @@ category: work
 giscus_comments: false
 ---
 
-Tried to identify causal mutations in familial whole genome sequencing for a single family with multiple affected relatives; variant analysis for individuals with connective tissue disorders; and analysis of UK Biobank exomes and symptoms. For the affected family, we connected them with an experimental group studying one of their possible causal mutations, and they were able to report a possible causal mechanism.
+This project tried to identify causal mutations in familial whole genome sequencing for a single family with multiple affected relatives. We also investigated of UK Biobank (UKB) exomes and symptoms to explore variant effects and penetrance. For the affected family, we connected them with an experimental group studying one of their possible causal mutations, and they were able to report a possible causal mechanism.
 
-We identified individuals in the UKB with incorrect diagnoses. 
+We also identified individuals in the UKB with incorrect diagnoses. 
 
-End-to-end analysis including single nucleotide variants, copy number variants, and analysis of non-coding variants using published pipelines, including Marks Lab in-house tools. 
+Our end-to-end analysis including single nucleotide variants, copy number variants, and analysis of non-coding variants using published pipelines, including Marks Lab in-house tools. 
 
-This work was collaboratively performed in collaboration with Kelly Brock. 
+This work was performed collaboratively with Kelly Brock. 

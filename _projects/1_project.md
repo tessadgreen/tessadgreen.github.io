@@ -8,7 +8,10 @@ category: work
 related_publications: peidli2022scperturb,
 ---
 
-Evaluation metrics for single cell -omics
-A deep dive on energy statistics as a tool for quantifying perturbation similarity and defining distinguishable cell states. We also assembled a collection of annotation-harmonized single cell perturbation datasets for community use. 
+This project includes a database of annotation harmonized single-cell perturbation datasets and a deep dive on energy statistics as a tool for quantifying perturbation similarity and defining distinguishable cell states. 
 
-[scPerturb](scperturb.org)
+[scPerturb](scperturb.org) for more on the data
+
+NeurIPS LMRL [poster](https://youtu.be/ubrQetpNIGs) from November 22. 
+
+Updated publication provisionally accepted at Nature Methods. 
