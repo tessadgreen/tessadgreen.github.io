@@ -24,3 +24,5 @@ I recently completed my PhD at Harvard Medical School. My PhD focused on methods
 I'm looking for full time roles starting February 2024. I'm also available for machine learning and bioinformatics consulting. Contact by email preferred: tessa.d.green[at]proton.me
 
 [Resume](assets/pdf/Tessa_Green_resume.pdf)
+
+[PhD Thesis](assets/pdf/PhD_Thesis_Green.pdf)
