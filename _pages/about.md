@@ -19,10 +19,11 @@ social: true  # includes social icons at the bottom of the page
 
 I'm a scientist excited about interpreting measurements and making sense of high dimensional data. I care about understanding the immune system, and using what we learn about it to improve human health. 
 
-I recently completed my PhD at Harvard Medical School. My PhD focused on methods for single cell transcriptomics and methods for analyzing single cell data.  
+I completed my PhD at Harvard Medical School, where I worked on methods for single cell transcriptomics and methods for analyzing single cell data. Read my [PhD Thesis](assets/pdf/PhD_Thesis_Green.pdf) or watch my [Phd Defense](https://youtu.be/dp4HPSPyvnw?si=kRvPbfdbRmvgnfDi)
 
-I'm looking for full time roles starting February 2024. I'm also available for machine learning and bioinformatics consulting. Contact by email preferred: tessa.d.green[at]proton.me
+I am a machine learning scientist and head of immunoinformatics at [KiraGen Bio](https://www.kiragenbio.com/).
+
+Contact by email preferred: tessa.d.green[at]proton.me
 
 [Resume](assets/pdf/Tessa_Green_resume.pdf)
 
-[PhD Thesis](assets/pdf/PhD_Thesis_Green.pdf)
