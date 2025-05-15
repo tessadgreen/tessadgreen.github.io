@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 I'm a scientist excited about interpreting measurements and making sense of high dimensional data. I care about understanding the immune system, and using what we learn about it to improve human health. 
 
-I completed my PhD at Harvard Medical School, where I worked on methods for single cell transcriptomics and methods for analyzing single cell data. Read my [PhD Thesis](assets/pdf/PhD_Thesis_Green.pdf) or watch my [Phd Defense](https://youtu.be/dp4HPSPyvnw?si=kRvPbfdbRmvgnfDi)
+I completed my PhD at Harvard Medical School, where I worked on methods for single cell transcriptomics and methods for analyzing single cell data. Read my [PhD Thesis](assets/pdf/PhD_Thesis_Green.pdf) or watch my [Defense](https://youtu.be/dp4HPSPyvnw?si=kRvPbfdbRmvgnfDi)
 
 I am a machine learning scientist and head of immunoinformatics at [KiraGen Bio](https://www.kiragenbio.com/).
 
